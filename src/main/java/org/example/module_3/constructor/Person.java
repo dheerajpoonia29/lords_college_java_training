@@ -1,11 +1,4 @@
-package org.example.module_3.class_and_objects;
-
-public class ConstructorExample {
-    public static void main(String[] args) {
-        Person person1 = new Person("john", 25);
-        person1.printPerson();
-    }
-}
+package org.example.module_3.constructor;
 
 class Person {
     String name;
