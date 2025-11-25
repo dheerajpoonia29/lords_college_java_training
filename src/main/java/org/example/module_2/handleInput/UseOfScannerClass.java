@@ -1,4 +1,4 @@
-package org.example.handleInput;
+package org.example.module_2.handleInput;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.example.operator;
+package org.example.module_2.operator;
 
 public class TernaryOperator {
     public static void main(String[] args) {
