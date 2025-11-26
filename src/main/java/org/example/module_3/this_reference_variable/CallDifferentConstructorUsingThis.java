@@ -1,4 +1,4 @@
-package org.example.module_3.class_and_objects;
+package org.example.module_3.this_reference_variable;
 
 public class CallDifferentConstructorUsingThis {
     CallDifferentConstructorUsingThis() {
