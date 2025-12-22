@@ -1,7 +1,5 @@
 package org.example.module_5.list;
 
-import com.sun.security.jgss.GSSUtil;
-
 import java.util.ArrayList;
 
 public class LearningArrayList {
