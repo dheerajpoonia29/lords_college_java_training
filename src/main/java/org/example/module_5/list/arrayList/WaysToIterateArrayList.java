@@ -35,6 +35,7 @@ public class WaysToIterateArrayList {
         System.out.println("\nUsing iterator:");
         Iterator<String> iterator = weekends.iterator();
         while (iterator.hasNext()) {
+
             System.out.println(iterator.next());
         }
 
